@@ -3,5 +3,5 @@ using namespace std;
 int main(){
 	cout<<"Monday"<<endl;
 	cout<<"November"<<endl;
-	cout<<"Adilkhan";
+	cout<<"Didar";
 }
